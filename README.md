@@ -1,8 +1,5 @@
-# 💫 About Me:
+# Sowmiya Gopal
 Welcome to my GitHub profile! I'm Sowmiya Gopal, Data Scientist at [Nielsen](https://www.nielsen.com/) with a passion for leveraging data to drive insights and solve complex problems. I'm constantly expanding my expertise in data science and excited to showcase my journey through my project portfolio.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiya-gopal38) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmiyagopalvg@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -17,4 +14,7 @@ Welcome to my GitHub profile! I'm Sowmiya Gopal, Data Scientist at [Nielsen](htt
 # 🔍 Skills:
 - **Statistical Techniques** 📊: Hypothesis Testing, Regression, Clustering, A/B Testing, Time Series Analysis  
 - **Machine Learning** 🤖: Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing (NLP)  
-- **Data Handling and Analysis** 🧹: Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Data Mining and Wrangling, ETL Pipelines  
+- **Data Handling and Analysis** 🧹: Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Data Mining and Wrangling, ETL Pipelines
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiya-gopal38) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmiyagopalvg@gmail.com) 
