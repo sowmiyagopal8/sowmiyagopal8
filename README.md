@@ -1,10 +1,53 @@
-
 # 💫 About Me:
-Welcome to my GitHub profile! I'm Sowmiya Gopal, Data Scientist with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
-
+Welcome to my GitHub profile! I'm Sowmiya Gopal, a Data Scientist at [Nielsen](https://www.nielsen.com/) with a passion for leveraging data to drive insights and solve complex problems. I'm constantly expanding my expertise in data science and excited to showcase my journey through my project portfolio.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sowmiya-gopal38) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmiyagopalvg@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiya-gopal38) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmiyagopalvg@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+# 🔍 Skills:
+
+## Programming Languages 🐍
+- Python
+- SQL
+
+## Databases 🗄️
+- MySQL
+- PostgreSQL
+
+## Statistical Techniques 📊
+- Hypothesis Testing
+- Regression
+- Clustering
+- A/B Testing
+- Time Series Analysis
+
+## Machine Learning 🤖
+- Supervised and Unsupervised Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+
+## Python Libraries 📚
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Visualization Tools 📈
+- Power BI
+- Matplotlib
+
+## Data Handling and Analysis 🧹
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Mining and Wrangling
+- ETL Pipelines
