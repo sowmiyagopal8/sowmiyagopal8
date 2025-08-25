@@ -1,7 +1,7 @@
 # Sowmiya Gopal
 Welcome to my GitHub profile! I'm Sowmiya Gopal, Data Scientist at [Nielsen](https://www.nielsen.com/) with a passion for leveraging data to drive insights and solve complex problems. I'm constantly expanding my expertise in data science and excited to showcase my journey through my project portfolio.
 
-# 💻 Tech Stack:
+# 💻 Tech tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
