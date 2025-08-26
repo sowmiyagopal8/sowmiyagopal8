@@ -20,22 +20,22 @@ Welcome to my GitHub profile! I'm Sowmiya Gopal, Data Scientist at [Nielsen](htt
 
 ### Databases and SQL for Data Science with Python
 [![Coursera Certificate](https://img.shields.io/badge/Coursera-Databases%20and%20SQL-blue)](https://coursera.org/share/ec7a967feb653232b4b24107eabc2023)
-- **Provider**: IBM (via Coursera)
+- **Provider**: IBM
 - **Certificate**: [View Certificate](https://coursera.org/share/ec7a967feb653232b4b24107eabc2023)
 
 ### SQL for Data Science
 [![Coursera Certificate](https://img.shields.io/badge/Coursera-SQL%20for%20Data%20Science-blue)](https://coursera.org/share/a1ac59f644de259a9e52c8578c86937b)
-- **Provider**: University of California, Davis (via Coursera)
+- **Provider**: University of California, Davis 
 - **Certificate**: [View Certificate](https://coursera.org/share/a1ac59f644de259a9e52c8578c86937b)
 
 ### Data Analysis Using Python
 [![Coursera Certificate](https://img.shields.io/badge/Coursera-Data%20Analysis%20Using%20Python-blue)](https://coursera.org/share/d67214568e7cd3c80b5362193cc2cba7)
-- **Provider**: University of Pennsylvania (via Coursera)
+- **Provider**: University of Pennsylvania 
 - **Certificate**: [View Certificate](https://coursera.org/share/d67214568e7cd3c80b5362193cc2cba7)
 
 ### Data Analysis with Python: Inform a Business Decision
 [![Coursera Certificate](https://img.shields.io/badge/Coursera-Data%20Analysis%20with%20Python-blue)](https://coursera.org/share/f9cf5c02c3b3d1541988c8f4b5902d46)
-- **Provider**: Coursera Project Network & W3Schools (via Coursera)
+- **Provider**: Coursera Project Network & W3Schools 
 - **Certificate**: [View Certificate](https://coursera.org/share/f9cf5c02c3b3d1541988c8f4b5902d46)
 
 
